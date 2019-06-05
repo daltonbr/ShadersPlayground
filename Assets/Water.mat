@@ -19,5 +19,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs: []
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _DepthFactor: 0.7
+    m_Colors:
+    - _Color: {r: 0, g: 0.40833712, b: 1, a: 0.6784314}
+    - _EdgeColor: {r: 0, g: 1, b: 0.880682, a: 0.627451}
